@@ -1,0 +1,1 @@
+This project deconstructs a current website and rebuilds it.
